@@ -1,0 +1,28 @@
+Disease,City,Hospital,Treatment
+Glaucoma,delhi,Dr. Rohit Pahwa's InstaVision Eye & Lasik Centre,eyedrops
+Glaucoma,delhi,Avlokan Eye Centre,laser treatment
+Glaucoma,delhi,Delhi Eye Centre,surgery
+Glaucoma,mumbai,Global Eye Clinic,eyedrops
+Glaucoma,mumbai,Eye Solutions Clinic,laser treatment
+Glaucoma,mumbai,Palaks Glaucoma Care Centre,surgery
+Glaucoma,kolkata,Dr. Prashant Srivastava,eyedrops
+Glaucoma,kolkata,Dr Kumar Ravi,laser treatment
+Glaucoma,kolkata,Dr Sagar Bhargava,surgery
+Malaria,delhi,Aruna Asaf Ali Govt Hospital,Combination of atovaquone and proguanil
+Malaria,delhi,Deep Chand Bandhu Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)"
+Malaria,delhi,Acharya Shree Bhikshu Hospital,Mefloquine.
+Malaria,mumbai,Seth V.C Gandhi & M.A. Vora Municipal General Hospital,Combination of atovaquone and proguanil
+Malaria,mumbai,Gokuldas Tejpal Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)"
+Malaria,mumbai,Rajawadi Hospital,Mefloquine.
+Malaria,kolkata,Bidhan Nagar Sub Divisional Hospital,Combination of atovaquone and proguanil
+Malaria,kolkata,M R Bangur Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)"
+Malaria,kolkata,Vidyasagar State General Hospital,Mefloquine.
+Breast Cancer,delhi,Women Cancer Clinic,Chemotherapy
+Breast Cancer,delhi,Dr. Samirs Ganga Diagnostics And Imaging Centre Private Limited,Hormonal therapy
+Breast Cancer,delhi,Delhi State Cancer Institute,Radiation therapy
+Breast Cancer,mumbai,Dr. Dale Rodrigues Cancer Center,Chemotherapy
+Breast Cancer,mumbai,Somaiya Ayurvihar,Hormonal therapy
+Breast Cancer,mumbai,Sun Cancer Hospital,Radiation therapy
+Breast Cancer,kolkata,"Narayana Superspeciality Hospital, Howrah",Chemotherapy
+Breast Cancer,kolkata,Chittaranjan National Cancer Institute,Hormonal therapy
+Breast Cancer,kolkata,Saroj Gupta Cancer Centre & Research Institute,Radiation therapy
