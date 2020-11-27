@@ -7,20 +7,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>
+<style>
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 15px;
+        text-align: left;
+        border-spacing: 5px;
+    }
+</style>
 <body>
   Disease: <strong> {{ disease }}</strong><br>
   City: <strong> {{ city }}</strong><br>
-  Best Hospitals: <br>
-  <ol>
-      <li><strong> {{ hospital1 }}</strong></li><br>
-      <li><strong> {{ hospital2 }}</strong></li><br>
-      <li><strong> {{ hospital3 }}</strong></li><br>
-  </ol>
-  Top Treatment Procedures: <br>
-  <ol>
-      <li><strong> {{ treatment1 }}</strong></li><br>
-      <li><strong> {{ treatment2 }}</strong></li><br>
-      <li><strong> {{ treatment3 }}</strong></li><br>
-  </ol>
+  <strong>Hospitals: <br></strong> 
+  <table>
+      <tr>
+          <th> Sl No.</td>
+          <th> Hospital Name</th>
+          <th> Appointment (E-Mail)</th>
+          <th> Appointment (Onsite)</th>
+      </tr>
+      <tr>
+          <td> 1. </td>
+          <td> {{ hospital[0]|safe }} </td>
+          <td> <a href="mailto:{{ email[0]|safe }}">Send Email</a> </td>
+          <td> <a href={{ online[0]|safe }}>Online Appointment</a> </td>
+      </tr>
+      <tr>
+        <td> 2. </td>
+        <td> {{ hospital[1]|safe }} </td>
+        <td> <a href="mailto:{{ email[1]|safe }}">Send Email</a> </td>
+        <td> <a href={{ online[1]|safe }}>Online Appointment</a> </td>
+    </tr>
+    <tr>
+        <td> 3. </td>
+        <td> {{ hospital[2]|safe }} </td>
+        <td> <a href="mailto:{{ email[2]|safe }}">Send Email</a> </td>
+        <td> <a href={{ online[2]|safe }}>Online Appointment</a> </td>
+    </tr>
+  </table><br><br>
+
+  <strong> Treatment Procedures: <br></strong>
+  <table>
+      <tr>
+          <th> Sl. No. </th>
+          <th> Most Popular Treatment Procedures/Medicines </th>
+      </tr>
+      <tr>
+          <td> 1. </td>
+          <td> {{ treatment[0]|safe }} </td>
+      </tr>
+      <tr>
+        <td> 2. </td>
+        <td> {{ treatment[1]|safe }} </td>
+    </tr>
+    <tr>
+        <td> 3. </td>
+        <td> {{ treatment[2]|safe }} </td>
+    </tr>
+  </table>
 </body>
 </html>

@@ -1,46 +1,46 @@
-Disease,City,Hospital,Treatment,
-glaucoma,delhi,Dr. Rohit Pahwa's InstaVision Eye & Lasik Centre,eyedrops,
-glaucoma,delhi,Avlokan Eye Centre,laser treatment,
-glaucoma,delhi,Delhi Eye Centre,surgery,
-glaucoma,mumbai,Global Eye Clinic,eyedrops,
-glaucoma,mumbai,Eye Solutions Clinic,laser treatment,
-glaucoma,mumbai,Palaks glaucoma Care Centre,surgery,
-glaucoma,kolkata,Dr. Prashant Srivastava,eyedrops,
-glaucoma,kolkata,Dr Kumar Ravi,laser treatment,
-glaucoma,kolkata,Dr Sagar Bhargava,surgery,
-malaria,delhi,Aruna Asaf Ali Govt Hospital,Combination of atovaquone and proguanil,
-malaria,delhi,Deep Chand Bandhu Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",
-malaria,delhi,Acharya Shree Bhikshu Hospital,Mefloquine.,
-malaria,mumbai,Seth V.C Gandhi & M.A. Vora Municipal General Hospital,Combination of atovaquone and proguanil,
-malaria,mumbai,Gokuldas Tejpal Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",
-malaria,mumbai,Rajawadi Hospital,Mefloquine.,
-malaria,kolkata,Bidhan Nagar Sub Divisional Hospital,Combination of atovaquone and proguanil,
-malaria,kolkata,M R Bangur Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",
-malaria,kolkata,Vidyasagar State General Hospital,Mefloquine.,
-breast-cancer,delhi,Women Cancer Clinic,Chemotherapy,
-breast-cancer,delhi,Dr. Samirs Ganga Diagnostics And Imaging Centre Private Limited,Hormonal therapy,
-breast-cancer,delhi,Delhi State Cancer Institute,Radiation therapy,
-breast-cancer,mumbai,Dr. Dale Rodrigues Cancer Center,Chemotherapy,
-breast-cancer,mumbai,Somaiya Ayurvihar,Hormonal therapy,
-breast-cancer,mumbai,Sun Cancer Hospital,Radiation therapy,
-breast-cancer,kolkata,"Narayana Superspeciality Hospital, Howrah",Chemotherapy,
-breast-cancer,kolkata,Chittaranjan National Cancer Institute,Hormonal therapy,
-breast-cancer,kolkata,Saroj Gupta Cancer Centre & Research Institute,Radiation therapy,
-heart-disease,delhi,All India Institute of Medical Sciences,Heart Attack,
-heart-disease,delhi,Fortis Escorts Hospital,Heart Failure,
-heart-disease,delhi,Apollo Hospital,Cardiac Arrhythmia,
-heart-disease,kolkata,Peerless Hospitals and B. K. Roy Research Centre,Heart Attack,
-heart-disease,kolkata,Rabindranath Tagore International Institute of Cardiac Sciences,Heart Failure,
-heart-disease,kolkata,Zenith Superspeciality Hospital,Cardiac Arrhythmia,
-heart-disease,mumbai,Nanavati Super Speciality Hospital,Heart Attack,
-heart-disease,mumbai,S L Raheja Fortis Hospital,Heart Failure,
-heart-disease,mumbai,Jaslok Hospital,Cardiac Arrhythmia,
-kidney-disease,delhi,All India Institute of Medical Sciences,Renal stones,high blood pressure medications such as angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor blockers
-kidney-disease,delhi,Fortis Escorts Hospital,diuretics and a low salt diet to relieve fluid retention,
-kidney-disease,delhi,Medanta Medicity,cholesterol-lowering medications,
-kidney-disease,kolkata,Fortis Hospital And Kidney Institute,Renal stones,
-kidney-disease,kolkata,HCG EKO Cancer Centre,diuretics and a low salt diet to relieve fluid retention,
-kidney-disease,kolkata,Rabindranath Tagore International Institute Of Cardiac Sciences,cholesterol-lowering medications,
-kidney-disease,mumbai,"Fortis Hospital, Mumbai",Renal stones,
-kidney-disease,mumbai,"Kokilaben Dhirubhai Ambani Hospital, Mumbai",diuretics and a low salt diet to relieve fluid retention,
-kidney-disease,mumbai,"Lilavati Hospital, Mumbai",cholesterol-lowering medications,
+Disease,City,Hospital,Treatment,Email,Online
+glaucoma,delhi,Dr. Rohit Pahwa's InstaVision Eye & Lasik Centre,eyedrops,info.instavision@gmail.com,http://www.instavision.in/schedule-an-appointment/
+glaucoma,delhi,Avlokan Eye Centre,laser treatment,drshantanu@gmail.com,http://www.avlokaneyecentre.com/
+glaucoma,delhi,Delhi Eye Centre,surgery,info@delhieyecentre.in,https://www.delhieyecentre.in/
+glaucoma,mumbai,Global Eye Clinic,eyedrops,globaleyeclinic@gmail.com,https://www.globaleyeclinic.com/
+glaucoma,mumbai,Eye Solutions Clinic,laser treatment,info@eyesolutions.in,https://www.eyesolutions.in/book-an-appointment/
+glaucoma,mumbai,Palaks glaucoma Care Centre,surgery,NA,NA
+glaucoma,kolkata,Dr. Prashant Srivastava,eyedrops,dr.prashantsrivastava@gmail.com,http://www.prashantsrivastava.com/online/
+glaucoma,kolkata,Dr Kumar Ravi,laser treatment,drkumarravi@hotmail.com,https://www.drkumarravi.com/book-online-eyeclinic
+glaucoma,kolkata,Dr Sagar Bhargava,surgery,sagarbhargava@yahoo.com,NA
+malaria,delhi,Aruna Asaf Ali Govt Hospital,Combination of atovaquone and proguanil,,NA
+malaria,delhi,Deep Chand Bandhu Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",dmsdcbh.delhi@nic.in,NA
+malaria,delhi,Acharya Shree Bhikshu Hospital,Mefloquine.,acharyashreehospital115@gmail.com ,NA
+malaria,mumbai,Seth V.C Gandhi & M.A. Vora Municipal General Hospital,Combination of atovaquone and proguanil,NA,NA
+malaria,mumbai,Gokuldas Tejpal Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",NA,NA
+malaria,mumbai,Rajawadi Hospital,Mefloquine.,NA,NA
+malaria,kolkata,Bidhan Nagar Sub Divisional Hospital,Combination of atovaquone and proguanil,NA,NA
+malaria,kolkata,M R Bangur Hospital,"Quinine sulfate(Qualaquin) with doxycycline (Vibramycin, Monodox, others)",NA,NA
+malaria,kolkata,Vidyasagar State General Hospital,Mefloquine.,NA,NA
+breast-cancer,delhi,Women Cancer Clinic,Chemotherapy,NA,https://www.trulifebreastcareindia.com/
+breast-cancer,delhi,Dr. Samirs Ganga Diagnostics And Imaging Centre Private Limited,Hormonal therapy,NA,NA
+breast-cancer,delhi,Delhi State Cancer Institute,Radiation therapy,director.dsci@nic.in,http://www.dsci.nic.in/
+breast-cancer,mumbai,Dr. Dale Rodrigues Cancer Center,Chemotherapy,dalerodrigues@gmail.com,https://www.lybrate.com/mumbai/doctor/dr-dale-d-rodriques-surgical-oncology
+breast-cancer,mumbai,Somaiya Ayurvihar,Hormonal therapy,admin.kjsh@somaiya.edu,NA
+breast-cancer,mumbai,Sun Cancer Hospital,Radiation therapy,info@suncancerhospital.com,NA
+breast-cancer,kolkata,"Narayana Superspeciality Hospital, Howrah",Chemotherapy,NA,NA
+breast-cancer,kolkata,Chittaranjan National Cancer Institute,Hormonal therapy,cncinstkol@gmail.com,NA
+breast-cancer,kolkata,Saroj Gupta Cancer Centre & Research Institute,Radiation therapy,cancercentre6@gmail.com,NA
+heart-disease,delhi,All India Institute of Medical Sciences,Heart Attack,director@aiims.edu,NA
+heart-disease,delhi,Fortis Escorts Hospital,Heart Failure,reachus@fortishealthcare.com,https://my.fortishealthcare.com/hospitals/23/specialities/3/doctors/3857/time-slots?source_name=FHL-Website&campaign_id=
+heart-disease,delhi,Apollo Hospital,Cardiac Arrhythmia,infodelhi@apollohospitals.com,https://virtualconsult.askapollo.com/online-doctors-consultation/
+heart-disease,kolkata,Peerless Hospitals and B. K. Roy Research Centre,Heart Attack,internationaldesk@peerlesshospital.com,http://www.peerlesshospital.com/online-support/appointment_request.html
+heart-disease,kolkata,Rabindranath Tagore International Institute of Cardiac Sciences,Heart Failure,info.dnsh@narayanahealth.org,https://www.narayanahealth.org/book-online
+heart-disease,kolkata,Zenith Superspeciality Hospital,Cardiac Arrhythmia,info@zenithhospital.in,NA
+heart-disease,mumbai,Nanavati Super Speciality Hospital,Heart Attack,nadeem.ahmed@nanavatihospital.org,https://www.nanavatihospital.org/book-an-appointment.php
+heart-disease,mumbai,S L Raheja Fortis Hospital,Heart Failure,info@rahejahospital.com,https://www.bravelily.com/#/sl-raheja-hospital-a-fortis-associate/book-appointment
+heart-disease,mumbai,Jaslok Hospital,Cardiac Arrhythmia,online@jaslokhospital.net,https://www.jaslokhospital.net/
+kidney-disease,delhi,All India Institute of Medical Sciences,Renal stones,director@aiims.edu,NA
+kidney-disease,delhi,Fortis Escorts Hospital,diuretics and a low salt diet to relieve fluid retention,reachus@fortishealthcare.com,https://my.fortishealthcare.com/hospitals/16/specialities/46/doctors/20713/time-slots?source_name=FHL-Website&campaign_id=
+kidney-disease,delhi,Medanta Medicity,cholesterol-lowering medications,NA,https://www.medantaeclinic.org/#!/home
+kidney-disease,kolkata,Fortis Hospital And Kidney Institute,Renal stones,fhki@fortishealthcare.com,https://my.fortishealthcare.com/hospitals/20/specialities/23/doctors/3278/time-slots?source_name=FHL-Website&campaign_id=
+kidney-disease,kolkata,HCG EKO Cancer Centre,diuretics and a low salt diet to relieve fluid retention,NA,https://www.hcgoncology.com/hospital_profiles/hcg-eko-cancer-centre-kolkata
+kidney-disease,kolkata,Rabindranath Tagore International Institute Of Cardiac Sciences,cholesterol-lowering medications,info.dnsh@narayanahealth.org,https://www.narayanahealth.org/book-online
+kidney-disease,mumbai,"Fortis Hospital, Mumbai",Renal stones,info@rahejahospital.com,https://www.bravelily.com/#/sl-raheja-hospital-a-fortis-associate/book-appointment
+kidney-disease,mumbai,"Kokilaben Dhirubhai Ambani Hospital, Mumbai",diuretics and a low salt diet to relieve fluid retention,NA,https://www.kokilabenhospital.com/patients/makeanappointment.html
+kidney-disease,mumbai,"Lilavati Hospital, Mumbai",cholesterol-lowering medications,info@lilavatihospital.com,https://www.lilavatihospital.com/Book-Appointment

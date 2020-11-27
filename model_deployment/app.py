@@ -168,12 +168,17 @@ def treatment():
         return render_template('select_city.html')
     if request.method == 'POST':
         city = request.form.get('city-dropdown')
-        df = pd.read_csv('hospital.csv')
+        session['loc'] = city
+        df = pd.read_csv('hospital.csv',encoding= 'unicode_escape')
         hospital = df.loc[(df['Disease']==disease) & (df['City']==city)]['Hospital'].tolist()
+        email = df.loc[(df['Disease']==disease) & (df['City']==city)]['Email'].tolist()
+        online = df.loc[(df['Disease']==disease) & (df['City']==city)]['Online'].tolist()
         treatment = df.loc[(df['Disease']==disease) & (df['City']==city)]['Treatment'].tolist()
         return render_template('result2.html',disease=disease,city=city,
-        hospital1=hospital[0],hospital2=hospital[1],hospital3=hospital[2],
-        treatment1=treatment[0],treatment2=treatment[1],treatment3=treatment[2])
+        hospital=hospital,treatment=treatment, email=email, online=online)
+
+
+
 
     
 
