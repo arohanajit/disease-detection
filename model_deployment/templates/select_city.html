@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Disease Detector</title>
+	<link rel="stylesheet" type="text/css"  href="{{url_for('static',filename='styles/app.css')}}">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+	<div class="body">
+		<form method="POST" enctype=multipart/form-data style="color: black">
+			<select name = "city-dropdown">
+				<option value = "delhi" selected>Delhi</option>
+				<option value = "mumbai">Mumbai</option>
+				<option value = "kolkata">Kolkata</option>
+			 </select>
+			<input type="submit" name="upload">
+		</form>
+	</div>
+    <div>
+	</div>
+</body>
+</html>

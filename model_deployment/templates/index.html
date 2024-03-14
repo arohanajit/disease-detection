@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Disease Detector</title>
+	<link rel="stylesheet" type="text/css"  href="{{url_for('static',filename='styles/app.css')}}">
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+</head>
+<body>
+		<form method="POST" enctype=multipart/form-data style="color: black">
+			<select name = "dropdown">
+				<option value = "malaria" selected>Malaria</option>
+				<option value = "glaucoma">Glaucoma</option>
+				<option value = "breast-cancer">Inasive Ductal Carcinoma</option>
+				<option value = "heart-disease">Heart Disease</option>
+				<option value = "kidney-disease">Kidney Disease</option>
+			 </select>
+			<input type="submit" name="upload">
+		</form>
+</body>
+</html>
